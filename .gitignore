@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+MapReduce/main/mrcoordinator
+MapReduce/main/mrsequential
+MapReduce/main/mrworker
+MapReduce/main/*.txt
+
+.DS_Store
+.RHistory
